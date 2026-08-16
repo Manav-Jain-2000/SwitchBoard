@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+litellm
+python-dotenv
+numpy
+scikit-learn
+pydantic
+requests
+httpx
+langgraph
+langchain
+langsmith

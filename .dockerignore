@@ -1,0 +1,10 @@
+.env
+.venv
+__pycache__
+*.pyc
+.git
+eval/*.json
+eval/*.csv
+.vscode
+uv.lock
+tests/

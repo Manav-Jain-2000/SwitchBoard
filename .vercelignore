@@ -1,0 +1,11 @@
+.venv
+.git
+.pytest_cache
+eval
+tests
+src/ui
+Dockerfile
+docker-compose.yml
+ARCHITECTURE.md
+INTERVIEW_GUIDE.md
+README.md
